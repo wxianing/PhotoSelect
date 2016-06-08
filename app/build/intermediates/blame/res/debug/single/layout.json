@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    }
+]

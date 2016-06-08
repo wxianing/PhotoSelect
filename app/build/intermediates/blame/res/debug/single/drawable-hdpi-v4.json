@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_del_unfocused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_title_bar.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_title_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_album_back.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_choosed.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_filenum.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_back_btn.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_pressed.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_back_btn_pressed.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_no_pictures.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_unselected.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_bottom_bar.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_cancel.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_cancel_pressed.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plubin_camera_del_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_unselected.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_pressed.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_send_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_preview_focused.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plugin_camera_choose_back.png",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
+    }
+]

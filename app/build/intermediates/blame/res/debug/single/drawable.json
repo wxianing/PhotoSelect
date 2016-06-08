@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_del_state.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_while.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\drawable\\text_while.xml"
+    }
+]

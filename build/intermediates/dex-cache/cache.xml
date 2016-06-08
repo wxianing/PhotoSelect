@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidSpaces\StudioSpaces\Photo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bc185fd4dea8be21f79f6b6aa2f5fffe2ae3f74">
+        <dex dex="D:\AndroidSpaces\StudioSpaces\Photo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_05aa21df79d8c4383d3f9b883b357bd07c8b1079.jar" />
+    </item>
+    <item
+        jar="D:\MyProgments\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidSpaces\StudioSpaces\Photo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_177f18df8d3db1a9bda7f0b5ba9ba002c18f44e7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSpaces\StudioSpaces\Photo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fd530f7f5b7cf9dad2a5780f284ebcdc7b040bd9">
+        <dex dex="D:\AndroidSpaces\StudioSpaces\Photo\app\build\intermediates\pre-dexed\debug\instant-run_6480eddd2ec2b8ea310fd3996745a443a79fb31f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "D:\\AndroidSpaces\\StudioSpaces\\Photo\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    }
+]
